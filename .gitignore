@@ -25,6 +25,7 @@ TOKEN
 !routes.cfg
 !styles.cfg
 !listing.cfg
+!assets/*.cfg
 
 # Exclude Locales Configurations and Translations
 !Locale/*/*.cfg
